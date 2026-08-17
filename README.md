@@ -15,8 +15,7 @@
 
 `Security Monitoring` • `Alert Triage` • `Incident Investigation` • `Threat Hunting` • `SIEM` • `EDR`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darwin_Brown_Jr.-0A66C2?logo=linkedin\&logoColor=white)](https://linkedin.com/in/darwinbrownjr)
-[![GitHub](https://img.shields.io/badge/GitHub-browndarwin231--Tech-181717?logo=github\&logoColor=white)](https://github.com/browndarwin231-Tech)
+[LinkedIn](https://linkedin.com/in/darwinbrownjr) • [GitHub](https://github.com/browndarwin231-Tech)
 
 ---
 
@@ -31,7 +30,7 @@ Focus: Blue Team Security Operations
 
 Entry-level SOC Analyst with hands-on experience performing **security monitoring, alert triage, incident investigation, threat detection, log analysis, threat hunting, and incident escalation** through practical cybersecurity labs.
 
-I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network traffic analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate security events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
+I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
 
 ---
 
@@ -76,7 +75,7 @@ I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network traf
 * Identified indicators of compromise.
 * Documented incident findings.
 * Evaluated severity and escalation requirements.
-* Completed structured incident-response workflows.
+* Completed structured incident response workflows.
 
 ➡️ **[View LetsDefend Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LetsDefend-Monitoring-Incident-Response)**
 
@@ -114,31 +113,17 @@ I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network traf
 
 # 🧰 `$ cat ~/security_tools.txt`
 
-### 🖥️ SIEM / EDR
+### SIEM / EDR
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge\&logo=elastic\&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge)
-![Defender XDR](https://img.shields.io/badge/Defender%20XDR-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-333333?style=for-the-badge)
+`Microsoft Sentinel` • `Splunk` • `Elastic Security` • `Wazuh` • `Microsoft Defender XDR` • `LimaCharlie`
 
-### 💻 Querying / Scripting
+### Querying / Scripting
 
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge)
-![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-Detection-red?style=for-the-badge)
+`KQL` • `SPL` • `Python` • `PowerShell` • `Bash` • `SQL` • `YARA`
 
-### 🌐 Systems / Networking
+### Systems / Networking
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+`Windows` • `Windows Server` • `Linux` • `Azure` • `Wireshark` • `TCP/IP` • `DNS` • `HTTP/HTTPS`
 
 ---
 
@@ -224,18 +209,6 @@ Escalate or Close
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=browndarwin231-Tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=browndarwin231-Tech&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 # 🎯 `$ cat career_objective.txt`
 
 ```text
@@ -257,11 +230,11 @@ GitHub .......... ONLINE
 Location ........ Homestead, FL
 ```
 
-💼 **LinkedIn:**
-[linkedin.com/in/darwinbrownjr](https://linkedin.com/in/darwinbrownjr)
+**LinkedIn:**
+https://linkedin.com/in/darwinbrownjr
 
-🛡️ **GitHub:**
-[github.com/browndarwin231-Tech](https://github.com/browndarwin231-Tech)
+**GitHub:**
+https://github.com/browndarwin231-Tech
 
 ---
 
