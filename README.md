@@ -29,9 +29,9 @@ Location: Homestead, Florida
 Focus: Blue Team Security Operations
 ```
 
-Hands-on SOC analyst building practical cybersecurity projects focused on **security monitoring, alert triage, incident investigation, threat detection, endpoint telemetry, network analysis, and incident escalation**.
+Entry-level SOC Analyst with hands-on experience performing **security monitoring, alert triage, incident investigation, threat detection, log analysis, threat hunting, and incident escalation** through practical cybersecurity labs.
 
-I use practical SOC labs to investigate suspicious activity, identify indicators of compromise, correlate security events, document findings, and map attacker behavior to **MITRE ATT&CK**.
+I build SOC projects using **SIEM, EDR, Windows telemetry, network traffic analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
 
 ---
 
@@ -42,8 +42,8 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 **Elastic Security • Kibana • Sysmon • Windows • PowerShell**
 
 * Triaged security alerts using Elastic SIEM.
-* Investigated suspicious Windows logon and PowerShell activity.
-* Analyzed Sysmon and Windows event telemetry.
+* Investigated suspicious logon and PowerShell activity.
+* Analyzed Windows and Sysmon telemetry.
 * Correlated multiple security events.
 * Identified potential indicators of compromise.
 * Documented findings and determined escalation requirements.
@@ -56,12 +56,12 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 
 **LimaCharlie • EDR • Windows • PowerShell • Detection Engineering**
 
-* Deployed an endpoint sensor and analyzed endpoint telemetry.
-* Monitored suspicious PowerShell activity.
+* Deployed and monitored an endpoint sensor.
+* Analyzed process and endpoint telemetry.
+* Investigated suspicious PowerShell execution.
 * Created detection and response rules.
-* Generated and investigated security alerts.
-* Reviewed process activity and detection evidence.
-* Practiced EDR-based Tier 1 SOC investigation workflows.
+* Generated and reviewed EDR alerts.
+* Practiced Tier 1 endpoint investigation workflows.
 
 ➡️ **[View LimaCharlie Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LimaCharlie-EDR-PowerShell-Detection-and-Investigation-Lab)**
 
@@ -69,14 +69,14 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 
 ## 🚨 LetsDefend Monitoring & Incident Response
 
-**SOC Monitoring • Incident Response • IOC Analysis • Alert Triage**
+**SOC Monitoring • Alert Triage • Incident Response • IOC Analysis**
 
-* Investigated alerts in a simulated SOC environment.
-* Analyzed malicious traffic and suspicious activity.
+* Investigated security alerts in a simulated SOC environment.
+* Analyzed suspicious and malicious activity.
 * Identified indicators of compromise.
-* Created and documented incident cases.
-* Determined whether activity required escalation.
-* Completed structured incident response workflows.
+* Documented incident findings.
+* Evaluated severity and escalation requirements.
+* Completed structured incident-response workflows.
 
 ➡️ **[View LetsDefend Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LetsDefend-Monitoring-Incident-Response)**
 
@@ -84,14 +84,14 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 
 ## 📊 Wazuh SIEM & Endpoint Monitoring Lab
 
-**Wazuh • Linux • Windows • SIEM • Endpoint Monitoring**
+**Wazuh • Windows • Linux • SIEM • Endpoint Monitoring**
 
-* Built a Wazuh SIEM environment using Ubuntu Server and Windows.
-* Configured the Wazuh Manager, Indexer, Dashboard, and endpoint agent.
-* Monitored endpoint security telemetry and logs.
-* Reviewed authentication failures and suspicious activity.
-* Performed security configuration assessment and threat hunting.
-* Practiced Tier 1 SOC alert validation and documentation.
+* Built a Wazuh SIEM environment.
+* Configured Wazuh Manager, Indexer, Dashboard, and endpoint agent.
+* Monitored endpoint telemetry and security events.
+* Investigated authentication failures and suspicious activity.
+* Performed threat hunting and security configuration assessment.
+* Practiced alert validation, documentation, and escalation.
 
 ➡️ **[View Wazuh Project](https://github.com/browndarwin231-Tech/Darwin-Wazuh-SOC-Lab)**
 
@@ -101,12 +101,12 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 
 **Python • Streamlit • Windows Event Logs • SOC Automation**
 
-* Built a Tier 1 SOC application using Python and Streamlit.
-* Converted Windows event data into an organized incident timeline.
-* Created a prioritized investigation queue.
-* Generated analyst shift-handoff reports.
-* Organized evidence for faster incident review.
-* Demonstrated SOC workflow automation.
+* Built a Python-based Tier 1 SOC investigation tool.
+* Converted Windows event data into incident timelines.
+* Created a prioritized analyst investigation queue.
+* Organized event evidence for faster triage.
+* Generated SOC shift-handoff reports.
+* Demonstrated security automation for analyst workflows.
 
 ➡️ **[View AI SOC Project](https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Incident-Timeline-Shift-Handoff-Generator)**
 
@@ -119,7 +119,7 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?logo=microsoftazure\&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk\&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic\&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571)
 ![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?logo=microsoft\&logoColor=white)
 ![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-555555)
 
@@ -131,6 +131,7 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791)
+![YARA](https://img.shields.io/badge/YARA-Detection-red)
 
 ### Systems / Networking
 
@@ -144,10 +145,12 @@ I use practical SOC labs to investigate suspicious activity, identify indicators
 # ⚔️ `$ cat ~/soc_skills.txt`
 
 ```text
-Security Monitoring
+SOC Operations
+├── Security Monitoring
 ├── Alert Triage
 ├── Incident Detection
 ├── Incident Investigation
+├── Incident Response
 ├── Incident Escalation
 └── Shift Handoff
 
@@ -156,6 +159,7 @@ Threat Analysis
 ├── Log Analysis
 ├── Event Correlation
 ├── Threat Hunting
+├── Phishing Analysis
 ├── Network Traffic Analysis
 └── MITRE ATT&CK Mapping
 
@@ -164,7 +168,7 @@ Detection & Investigation
 ├── EDR Investigation
 ├── Windows Event Analysis
 ├── PowerShell Analysis
-├── Phishing Analysis
+├── Authentication Analysis
 └── YARA
 ```
 
@@ -209,7 +213,8 @@ Escalate or Close
 [+] Incident investigation
 [+] KQL threat hunting
 [+] SPL security searches
-[+] SIEM and EDR investigations
+[+] SIEM investigations
+[+] EDR investigations
 [+] Windows event analysis
 [+] Network traffic analysis
 [+] Python security automation
@@ -219,7 +224,15 @@ Escalate or Close
 
 ---
 
-# 🎯 Career Objective
+# 📈 GitHub Activity
+
+![Darwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=browndarwin231-Tech\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=browndarwin231-Tech\&layout=compact\&hide_border=true)
+
+---
+
+# 🎯 `$ cat career_objective.txt`
 
 ```text
 TARGET_ROLE = "SOC Analyst Tier 1"
@@ -228,7 +241,7 @@ MISSION:
 Detect → Investigate → Document → Escalate → Improve
 ```
 
-Seeking an entry-level **SOC Analyst / Cybersecurity Analyst** opportunity where I can contribute hands-on experience with SIEM, EDR, security monitoring, incident investigation, threat hunting, and incident response.
+Seeking an entry-level **SOC Analyst / Cybersecurity Analyst** opportunity where I can contribute hands-on experience with **SIEM, EDR, security monitoring, alert triage, incident investigation, threat hunting, network analysis, and incident response**.
 
 ---
 
@@ -249,7 +262,7 @@ https://github.com/browndarwin231-Tech
 ---
 
 ```text
-========================================================
+============================================================
        BLUE TEAM • DETECT • INVESTIGATE • RESPOND
-========================================================
+============================================================
 ```
