@@ -15,8 +15,8 @@
 
 `Security Monitoring` • `Alert Triage` • `Incident Investigation` • `Threat Hunting` • `SIEM` • `EDR`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darwin_Brown_Jr.-blue?logo=linkedin)](https://linkedin.com/in/darwinbrownjr)
-[![GitHub](https://img.shields.io/badge/GitHub-browndarwin231--Tech-black?logo=github)](https://github.com/browndarwin231-Tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darwin_Brown_Jr.-0A66C2?logo=linkedin\&logoColor=white)](https://linkedin.com/in/darwinbrownjr)
+[![GitHub](https://img.shields.io/badge/GitHub-browndarwin231--Tech-181717?logo=github\&logoColor=white)](https://github.com/browndarwin231-Tech)
 
 ---
 
@@ -31,7 +31,7 @@ Focus: Blue Team Security Operations
 
 Entry-level SOC Analyst with hands-on experience performing **security monitoring, alert triage, incident investigation, threat detection, log analysis, threat hunting, and incident escalation** through practical cybersecurity labs.
 
-I build SOC projects using **SIEM, EDR, Windows telemetry, network traffic analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
+I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network traffic analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate security events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
 
 ---
 
@@ -42,7 +42,7 @@ I build SOC projects using **SIEM, EDR, Windows telemetry, network traffic analy
 **Elastic Security • Kibana • Sysmon • Windows • PowerShell**
 
 * Triaged security alerts using Elastic SIEM.
-* Investigated suspicious logon and PowerShell activity.
+* Investigated suspicious Windows logon and PowerShell activity.
 * Analyzed Windows and Sysmon telemetry.
 * Correlated multiple security events.
 * Identified potential indicators of compromise.
@@ -57,7 +57,7 @@ I build SOC projects using **SIEM, EDR, Windows telemetry, network traffic analy
 **LimaCharlie • EDR • Windows • PowerShell • Detection Engineering**
 
 * Deployed and monitored an endpoint sensor.
-* Analyzed process and endpoint telemetry.
+* Analyzed endpoint and process telemetry.
 * Investigated suspicious PowerShell execution.
 * Created detection and response rules.
 * Generated and reviewed EDR alerts.
@@ -87,7 +87,7 @@ I build SOC projects using **SIEM, EDR, Windows telemetry, network traffic analy
 **Wazuh • Windows • Linux • SIEM • Endpoint Monitoring**
 
 * Built a Wazuh SIEM environment.
-* Configured Wazuh Manager, Indexer, Dashboard, and endpoint agent.
+* Configured the Wazuh Manager, Indexer, Dashboard, and endpoint agent.
 * Monitored endpoint telemetry and security events.
 * Investigated authentication failures and suspicious activity.
 * Performed threat hunting and security configuration assessment.
@@ -101,11 +101,11 @@ I build SOC projects using **SIEM, EDR, Windows telemetry, network traffic analy
 
 **Python • Streamlit • Windows Event Logs • SOC Automation**
 
-* Built a Python-based Tier 1 SOC investigation tool.
-* Converted Windows event data into incident timelines.
-* Created a prioritized analyst investigation queue.
+* Built a Python-based Tier 1 SOC investigation application.
+* Converted Windows event data into organized incident timelines.
+* Created a prioritized investigation queue.
 * Organized event evidence for faster triage.
-* Generated SOC shift-handoff reports.
+* Generated SOC analyst shift-handoff reports.
 * Demonstrated security automation for analyst workflows.
 
 ➡️ **[View AI SOC Project](https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Incident-Timeline-Shift-Handoff-Generator)**
@@ -114,31 +114,31 @@ I build SOC projects using **SIEM, EDR, Windows telemetry, network traffic analy
 
 # 🧰 `$ cat ~/security_tools.txt`
 
-### SIEM / EDR
+### 🖥️ SIEM / EDR
 
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?logo=microsoftazure\&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk\&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic\&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571)
-![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?logo=microsoft\&logoColor=white)
-![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-555555)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge\&logo=elastic\&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge)
+![Defender XDR](https://img.shields.io/badge/Defender%20XDR-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-333333?style=for-the-badge)
 
-### Querying / Scripting
+### 💻 Querying / Scripting
 
-![KQL](https://img.shields.io/badge/KQL-0078D4)
-![SPL](https://img.shields.io/badge/SPL-000000)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791)
-![YARA](https://img.shields.io/badge/YARA-Detection-red)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge)
+![SPL](https://img.shields.io/badge/SPL-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![YARA](https://img.shields.io/badge/YARA-Detection-red?style=for-the-badge)
 
-### Systems / Networking
+### 🌐 Systems / Networking
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
 
 ---
 
@@ -226,9 +226,13 @@ Escalate or Close
 
 # 📈 GitHub Activity
 
-![Darwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=browndarwin231-Tech\&show_icons=true\&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=browndarwin231-Tech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=browndarwin231-Tech\&layout=compact\&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=browndarwin231-Tech&layout=compact&hide_border=true" height="165" />
+</p>
 
 ---
 
@@ -253,11 +257,11 @@ GitHub .......... ONLINE
 Location ........ Homestead, FL
 ```
 
-**LinkedIn:**
-https://linkedin.com/in/darwinbrownjr
+💼 **LinkedIn:**
+[linkedin.com/in/darwinbrownjr](https://linkedin.com/in/darwinbrownjr)
 
-**GitHub:**
-https://github.com/browndarwin231-Tech
+🛡️ **GitHub:**
+[github.com/browndarwin231-Tech](https://github.com/browndarwin231-Tech)
 
 ---
 
