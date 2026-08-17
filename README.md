@@ -30,7 +30,7 @@ Focus: Blue Team Security Operations
 
 Entry-level SOC Analyst with hands-on experience performing **security monitoring, alert triage, incident investigation, threat detection, log analysis, threat hunting, and incident escalation** through practical cybersecurity labs.
 
-I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
+I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate security events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
 
 ---
 
