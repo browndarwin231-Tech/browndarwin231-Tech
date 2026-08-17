@@ -29,9 +29,9 @@ Location: Homestead, Florida
 Focus: Blue Team Security Operations
 ```
 
-Hands-on SOC analyst building practical cybersecurity projects focused on **security monitoring, SIEM alert triage, incident investigation, threat detection, endpoint telemetry, network analysis, and incident escalation**.
+Hands-on SOC analyst building practical cybersecurity projects focused on **security monitoring, alert triage, incident investigation, threat detection, endpoint telemetry, network analysis, and incident escalation**.
 
-I use real-world labs to investigate suspicious activity, identify indicators of compromise, correlate security events, document findings, and map attacker behavior to **MITRE ATT&CK**.
+I use practical SOC labs to investigate suspicious activity, identify indicators of compromise, correlate security events, document findings, and map attacker behavior to **MITRE ATT&CK**.
 
 ---
 
@@ -44,7 +44,7 @@ I use real-world labs to investigate suspicious activity, identify indicators of
 * Triaged security alerts using Elastic SIEM.
 * Investigated suspicious Windows logon and PowerShell activity.
 * Analyzed Sysmon and Windows event telemetry.
-* Correlated multiple security events during investigations.
+* Correlated multiple security events.
 * Identified potential indicators of compromise.
 * Documented findings and determined escalation requirements.
 
@@ -60,7 +60,7 @@ I use real-world labs to investigate suspicious activity, identify indicators of
 * Monitored suspicious PowerShell activity.
 * Created detection and response rules.
 * Generated and investigated security alerts.
-* Reviewed detection evidence and process activity.
+* Reviewed process activity and detection evidence.
 * Practiced EDR-based Tier 1 SOC investigation workflows.
 
 ➡️ **[View LimaCharlie Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LimaCharlie-EDR-PowerShell-Detection-and-Investigation-Lab)**
@@ -71,12 +71,12 @@ I use real-world labs to investigate suspicious activity, identify indicators of
 
 **SOC Monitoring • Incident Response • IOC Analysis • Alert Triage**
 
-* Investigated security alerts in a simulated SOC environment.
+* Investigated alerts in a simulated SOC environment.
 * Analyzed malicious traffic and suspicious activity.
 * Identified indicators of compromise.
 * Created and documented incident cases.
-* Determined whether alerts required escalation.
-* Completed incident response and investigation workflows.
+* Determined whether activity required escalation.
+* Completed structured incident response workflows.
 
 ➡️ **[View LetsDefend Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LetsDefend-Monitoring-Incident-Response)**
 
@@ -91,7 +91,7 @@ I use real-world labs to investigate suspicious activity, identify indicators of
 * Monitored endpoint security telemetry and logs.
 * Reviewed authentication failures and suspicious activity.
 * Performed security configuration assessment and threat hunting.
-* Practiced Tier 1 SOC alert validation and incident documentation.
+* Practiced Tier 1 SOC alert validation and documentation.
 
 ➡️ **[View Wazuh Project](https://github.com/browndarwin231-Tech/Darwin-Wazuh-SOC-Lab)**
 
@@ -106,7 +106,7 @@ I use real-world labs to investigate suspicious activity, identify indicators of
 * Created a prioritized investigation queue.
 * Generated analyst shift-handoff reports.
 * Organized evidence for faster incident review.
-* Demonstrated security automation and SOC workflow improvement.
+* Demonstrated SOC workflow automation.
 
 ➡️ **[View AI SOC Project](https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Incident-Timeline-Shift-Handoff-Generator)**
 
@@ -123,13 +123,13 @@ I use real-world labs to investigate suspicious activity, identify indicators of
 ![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?logo=microsoft\&logoColor=white)
 ![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-555555)
 
-### Scripting / Querying
+### Querying / Scripting
 
+![KQL](https://img.shields.io/badge/KQL-0078D4)
+![SPL](https://img.shields.io/badge/SPL-000000)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4)
-![SPL](https://img.shields.io/badge/SPL-000000)
 ![SQL](https://img.shields.io/badge/SQL-336791)
 
 ### Systems / Networking
@@ -141,7 +141,7 @@ I use real-world labs to investigate suspicious activity, identify indicators of
 
 ---
 
-# ⚔️ SOC Skills
+# ⚔️ `$ cat ~/soc_skills.txt`
 
 ```text
 Security Monitoring
@@ -159,11 +159,12 @@ Threat Analysis
 ├── Network Traffic Analysis
 └── MITRE ATT&CK Mapping
 
-Detection
+Detection & Investigation
 ├── SIEM Investigation
 ├── EDR Investigation
-├── PowerShell Analysis
 ├── Windows Event Analysis
+├── PowerShell Analysis
+├── Phishing Analysis
 └── YARA
 ```
 
@@ -218,14 +219,6 @@ Escalate or Close
 
 ---
 
-# 📈 GitHub Activity
-
-![Darwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=browndarwin231-Tech\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=browndarwin231-Tech\&layout=compact\&hide_border=true)
-
----
-
 # 🎯 Career Objective
 
 ```text
@@ -235,19 +228,23 @@ MISSION:
 Detect → Investigate → Document → Escalate → Improve
 ```
 
-Seeking an entry-level **SOC Analyst / Cybersecurity Analyst** opportunity where I can contribute hands-on experience with SIEM, EDR, incident investigation, threat hunting, security monitoring, and incident response.
+Seeking an entry-level **SOC Analyst / Cybersecurity Analyst** opportunity where I can contribute hands-on experience with SIEM, EDR, security monitoring, incident investigation, threat hunting, and incident response.
 
 ---
 
 # 📡 `$ ./contact.sh`
+
+```text
+LinkedIn ........ ONLINE
+GitHub .......... ONLINE
+Location ........ Homestead, FL
+```
 
 **LinkedIn:**
 https://linkedin.com/in/darwinbrownjr
 
 **GitHub:**
 https://github.com/browndarwin231-Tech
-
-📍 Homestead, Florida
 
 ---
 
