@@ -1,4 +1,4 @@
-# DarwinBrown@SOC:~$ █
+# 🛡️ Darwin Brown Jr. | SOC Analyst
 
 ```text
 +======================================================================+
@@ -13,44 +13,33 @@
 +======================================================================+
 ```
 
----
+`Security Monitoring` • `Alert Triage` • `Incident Investigation` • `Threat Hunting` • `SIEM` • `EDR`
 
-## 🛡️ `analyst@darwin:~$ cat profile.txt`
-
-```text
-Name ............. Darwin Brown Jr.
-Role ............. Entry-Level SOC Analyst / Cybersecurity Analyst
-Location ......... Homestead, Florida
-Focus ............ Blue Team Security Operations
-
-Core Mission:
-├── Security Monitoring
-├── Alert Triage
-├── Incident Investigation
-├── Threat Detection
-├── Threat Hunting
-├── IOC Analysis
-└── Incident Escalation
-```
-
-I build hands-on cybersecurity labs that simulate real-world **Tier 1 SOC investigations** using SIEM, EDR, endpoint telemetry, network traffic, and security logs.
-
-My portfolio focuses on investigating suspicious activity, identifying indicators of compromise, correlating events, documenting findings, and determining when incidents should be escalated.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darwin_Brown_Jr.-blue?logo=linkedin)](https://linkedin.com/in/darwinbrownjr)
+[![GitHub](https://img.shields.io/badge/GitHub-browndarwin231--Tech-black?logo=github)](https://github.com/browndarwin231-Tech)
 
 ---
 
-# 🚨 Featured SOC Projects
+## `$ whoami`
 
 ```text
-analyst@darwin:~$ ls -lah ~/SOC-Projects
+Name: Darwin Brown Jr.
+Role: Entry-Level SOC Analyst / Cybersecurity Analyst
+Location: Homestead, Florida
+Focus: Blue Team Security Operations
 ```
+
+Hands-on SOC analyst building practical cybersecurity projects focused on **security monitoring, SIEM alert triage, incident investigation, threat detection, endpoint telemetry, network analysis, and incident escalation**.
+
+I use real-world labs to investigate suspicious activity, identify indicators of compromise, correlate security events, document findings, and map attacker behavior to **MITRE ATT&CK**.
+
+---
+
+# 🚨 `$ ls ~/featured_soc_projects`
 
 ## 🔎 Elastic SIEM Alert Triage & Incident Investigation
 
-```text
-[STATUS: COMPLETE]
-TOOLS: Elastic Stack | Windows | Sysmon
-```
+**Elastic Security • Kibana • Sysmon • Windows • PowerShell**
 
 * Triaged security alerts using Elastic SIEM.
 * Investigated suspicious Windows logon and PowerShell activity.
@@ -59,193 +48,168 @@ TOOLS: Elastic Stack | Windows | Sysmon
 * Identified potential indicators of compromise.
 * Documented findings and determined escalation requirements.
 
-➡️ **[View Elastic Project](https://github.com/browndarwin231-Tech)**
+➡️ **[View Elastic Project](https://github.com/browndarwin231-Tech/Darwin--SOC-Elastic-Alert-Triage-Investigation-Lab)**
 
 ---
 
-## 🛡️ Microsoft Defender XDR Threat Hunting
+## 🛡️ LimaCharlie EDR PowerShell Detection & Investigation
+
+**LimaCharlie • EDR • Windows • PowerShell • Detection Engineering**
+
+* Deployed an endpoint sensor and analyzed endpoint telemetry.
+* Monitored suspicious PowerShell activity.
+* Created detection and response rules.
+* Generated and investigated security alerts.
+* Reviewed detection evidence and process activity.
+* Practiced EDR-based Tier 1 SOC investigation workflows.
+
+➡️ **[View LimaCharlie Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LimaCharlie-EDR-PowerShell-Detection-and-Investigation-Lab)**
+
+---
+
+## 🚨 LetsDefend Monitoring & Incident Response
+
+**SOC Monitoring • Incident Response • IOC Analysis • Alert Triage**
+
+* Investigated security alerts in a simulated SOC environment.
+* Analyzed malicious traffic and suspicious activity.
+* Identified indicators of compromise.
+* Created and documented incident cases.
+* Determined whether alerts required escalation.
+* Completed incident response and investigation workflows.
+
+➡️ **[View LetsDefend Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LetsDefend-Monitoring-Incident-Response)**
+
+---
+
+## 📊 Wazuh SIEM & Endpoint Monitoring Lab
+
+**Wazuh • Linux • Windows • SIEM • Endpoint Monitoring**
+
+* Built a Wazuh SIEM environment using Ubuntu Server and Windows.
+* Configured the Wazuh Manager, Indexer, Dashboard, and endpoint agent.
+* Monitored endpoint security telemetry and logs.
+* Reviewed authentication failures and suspicious activity.
+* Performed security configuration assessment and threat hunting.
+* Practiced Tier 1 SOC alert validation and incident documentation.
+
+➡️ **[View Wazuh Project](https://github.com/browndarwin231-Tech/Darwin-Wazuh-SOC-Lab)**
+
+---
+
+## 🤖 AI Incident Timeline & SOC Shift Handoff Generator
+
+**Python • Streamlit • Windows Event Logs • SOC Automation**
+
+* Built a Tier 1 SOC application using Python and Streamlit.
+* Converted Windows event data into an organized incident timeline.
+* Created a prioritized investigation queue.
+* Generated analyst shift-handoff reports.
+* Organized evidence for faster incident review.
+* Demonstrated security automation and SOC workflow improvement.
+
+➡️ **[View AI SOC Project](https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Incident-Timeline-Shift-Handoff-Generator)**
+
+---
+
+# 🧰 `$ cat ~/security_tools.txt`
+
+### SIEM / EDR
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?logo=microsoftazure\&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk\&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic\&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571)
+![Defender XDR](https://img.shields.io/badge/Microsoft_Defender_XDR-0078D4?logo=microsoft\&logoColor=white)
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-555555)
+
+### Scripting / Querying
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4)
+![SPL](https://img.shields.io/badge/SPL-000000)
+![SQL](https://img.shields.io/badge/SQL-336791)
+
+### Systems / Networking
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark\&logoColor=white)
+
+---
+
+# ⚔️ SOC Skills
 
 ```text
-[STATUS: COMPLETE]
-TOOLS: Microsoft Defender XDR | KQL | MITRE ATT&CK
-```
+Security Monitoring
+├── Alert Triage
+├── Incident Detection
+├── Incident Investigation
+├── Incident Escalation
+└── Shift Handoff
 
-* Investigated EDR alerts and endpoint telemetry.
-* Created KQL threat-hunting queries.
-* Analyzed suspicious processes and authentication activity.
-* Established incident timelines.
-* Mapped attacker behavior to MITRE ATT&CK tactics and techniques.
-* Documented investigation findings for SOC escalation.
+Threat Analysis
+├── IOC Analysis
+├── Log Analysis
+├── Event Correlation
+├── Threat Hunting
+├── Network Traffic Analysis
+└── MITRE ATT&CK Mapping
 
-➡️ **[View Defender XDR Project](https://github.com/browndarwin231-Tech)**
-
----
-
-## 📊 Splunk Security Monitoring & Incident Triage
-
-```text
-[STATUS: COMPLETE]
-TOOLS: Splunk | SPL | Windows
-```
-
-* Monitored Windows security events using Splunk.
-* Created SPL searches for suspicious authentication activity.
-* Detected failed logins and abnormal account behavior.
-* Reviewed supporting log evidence.
-* Assessed incident scope and severity.
-* Prepared findings for escalation.
-
-➡️ **[View Splunk Project](https://github.com/browndarwin231-Tech)**
-
----
-
-## 🚨 Wazuh Endpoint Detection & SOC Monitoring
-
-```text
-[STATUS: COMPLETE]
-TOOLS: Wazuh | Windows | Linux
-```
-
-* Monitored endpoint security telemetry.
-* Investigated authentication failures and brute-force activity.
-* Validated alerts and reviewed supporting evidence.
-* Performed Tier 1 SOC alert triage.
-* Documented investigation notes.
-* Determined appropriate escalation paths.
-
-➡️ **[View Wazuh Project](https://github.com/browndarwin231-Tech)**
-
----
-
-## 🌐 Wireshark Network Incident Investigation
-
-```text
-[STATUS: COMPLETE]
-TOOLS: Wireshark | TCP/IP | DNS | HTTP/HTTPS
-```
-
-* Analyzed packet captures during network investigations.
-* Investigated suspicious DNS requests and TCP sessions.
-* Reviewed HTTP/HTTPS network traffic.
-* Identified network-based indicators of compromise.
-* Evaluated traffic for potential command-and-control behavior.
-* Investigated possible data-exfiltration activity.
-
-➡️ **[View Wireshark Project](https://github.com/browndarwin231-Tech)**
-
----
-
-# ⚙️ `analyst@darwin:~$ cat skills.conf`
-
-```ini
-[SIEM_EDR]
-Microsoft_Sentinel = True
-Splunk = True
-Elastic_Stack = True
-Wazuh = True
-Microsoft_Defender_XDR = True
-EDR = True
-
-[SOC_Operations]
-Security_Monitoring = True
-Alert_Triage = True
-Incident_Investigation = True
-Incident_Response = True
-Incident_Escalation = True
-Threat_Hunting = True
-
-[Security_Analysis]
-IOC_Analysis = True
-Log_Analysis = True
-Event_Correlation = True
-Phishing_Analysis = True
-Network_Traffic_Analysis = True
-Vulnerability_Tracking = True
-
-[Query_Languages]
-KQL = True
-SPL = True
-SQL = True
-
-[Scripting]
-Python = True
-PowerShell = True
-Bash = True
-
-[Detection]
-YARA = True
-MITRE_ATTACK = True
-Cyber_Kill_Chain = True
-
-[Networking]
-TCP_IP = True
-DNS = True
-HTTP_HTTPS = True
-Wireshark = True
-
-[Systems]
-Windows = True
-Windows_Server = True
-Linux = True
-Azure = True
+Detection
+├── SIEM Investigation
+├── EDR Investigation
+├── PowerShell Analysis
+├── Windows Event Analysis
+└── YARA
 ```
 
 ---
 
-# 🔬 SOC Investigation Workflow
+# 🔬 `$ ./soc_workflow.sh`
 
 ```text
-SECURITY ALERT
+Security Alert
       │
       ▼
-┌──────────────────┐
-│   ALERT TRIAGE   │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ VALIDATE ACTIVITY│
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│  ANALYZE LOGS    │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ IDENTIFY IOCs    │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ CORRELATE EVENTS │
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ DOCUMENT FINDINGS│
-└────────┬─────────┘
-         │
-         ▼
-┌──────────────────┐
-│ ESCALATE / CLOSE │
-└──────────────────┘
+Alert Triage
+      │
+      ▼
+Validate Activity
+      │
+      ▼
+Analyze Logs / Telemetry
+      │
+      ▼
+Identify IOCs
+      │
+      ▼
+Correlate Events
+      │
+      ▼
+Determine Scope & Severity
+      │
+      ▼
+Document Findings
+      │
+      ▼
+Escalate or Close
 ```
 
 ---
 
-# 🧠 Current Training Focus
+# 🧠 `$ tail -f current_focus.log`
 
 ```text
-analyst@darwin:~$ tail -f ~/training.log
-
 [+] Tier 1 SOC alert triage
 [+] Incident investigation
 [+] KQL threat hunting
 [+] SPL security searches
-[+] SIEM detection engineering
-[+] Endpoint investigation
+[+] SIEM and EDR investigations
+[+] Windows event analysis
 [+] Network traffic analysis
 [+] Python security automation
 [+] PowerShell security automation
@@ -254,13 +218,11 @@ analyst@darwin:~$ tail -f ~/training.log
 
 ---
 
-# 🧰 Security Toolset
+# 📈 GitHub Activity
 
-`Microsoft Sentinel` • `Splunk` • `Elastic Stack` • `Wazuh` • `Defender XDR`
+![Darwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=browndarwin231-Tech\&show_icons=true\&hide_border=true)
 
-`Wireshark` • `KQL` • `SPL` • `PowerShell` • `Python`
-
-`Bash` • `SQL` • `YARA` • `Sysmon` • `MITRE ATT&CK`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=browndarwin231-Tech\&layout=compact\&hide_border=true)
 
 ---
 
@@ -269,35 +231,28 @@ analyst@darwin:~$ tail -f ~/training.log
 ```text
 TARGET_ROLE = "SOC Analyst Tier 1"
 
-OBJECTIVE:
+MISSION:
 Detect → Investigate → Document → Escalate → Improve
 ```
 
-Seeking an opportunity to contribute to a Security Operations Center while continuing to develop hands-on experience in **security monitoring, alert triage, incident response, threat hunting, SIEM, and EDR investigations**.
+Seeking an entry-level **SOC Analyst / Cybersecurity Analyst** opportunity where I can contribute hands-on experience with SIEM, EDR, incident investigation, threat hunting, security monitoring, and incident response.
 
 ---
 
-# 📡 Establish Connection
+# 📡 `$ ./contact.sh`
 
-```text
-analyst@darwin:~$ ./contact.sh
+**LinkedIn:**
+https://linkedin.com/in/darwinbrownjr
 
-[*] LinkedIn ........ ONLINE
-[*] GitHub .......... ONLINE
-[*] Location ........ Homestead, FL
-```
+**GitHub:**
+https://github.com/browndarwin231-Tech
 
-💼 **LinkedIn:**
-[linkedin.com/in/darwinbrownjr](https://linkedin.com/in/darwinbrownjr)
-
-🛡️ **GitHub:**
-[github.com/browndarwin231-Tech](https://github.com/browndarwin231-Tech)
+📍 Homestead, Florida
 
 ---
 
 ```text
-============================================================
-              BLUE TEAM • DETECT • INVESTIGATE
-                   RESPOND • IMPROVE
-============================================================
+========================================================
+       BLUE TEAM • DETECT • INVESTIGATE • RESPOND
+========================================================
 ```
