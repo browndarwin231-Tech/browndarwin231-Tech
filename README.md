@@ -1,121 +1,153 @@
-# Darwin Brown Jr. | GRC Analyst
+<div align="center">
 
-Entry-level Governance, Risk, and Compliance professional building practical experience through hands-on risk assessments, control testing, audit evidence reviews, policy governance, and compliance simulations.
+# 🛡️ Darwin Brown Jr.
 
-`Risk Assessment` • `Control Testing` • `Control Mapping` • `Policy Governance` • `Audit Readiness` • `Remediation Tracking`
+## Governance Risk and Compliance Analyst
 
-[LinkedIn](https://www.linkedin.com/in/darwin-brown-jr-707a73245/) • [GitHub](https://github.com/browndarwin231-Tech) • Homestead, Florida
+**Risk Assessment • Control Testing • Audit Readiness • Policy Governance • Remediation Tracking**
 
-## About Me
+📍 Homestead, Florida  
+[LinkedIn](https://www.linkedin.com/in/darwin-brown-jr-707a73245/) • [GitHub](https://github.com/browndarwin231-Tech)
 
-I build portfolio projects that simulate the work of a GRC analyst: defining scope, identifying risks, evaluating controls, reviewing evidence, documenting gaps, assigning remediation actions, and communicating results to stakeholders.
+</div>
 
-My portfolio covers enterprise and federal GRC, cloud risk, internal audit, privacy, third-party risk, business continuity, and major frameworks including NIST CSF 2.0, NIST SP 800-53, NIST RMF, ISO 27001, SOC 2, FISMA, FedRAMP, HIPAA, PCI DSS, SOX ITGC, and GDPR.
+---
 
-## Featured GRC Projects
+## Professional Profile
 
-### [ISO 27001 Cloud Migration Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-ISO27001-Cloud-Risk-Assessment)
+Entry-level Governance, Risk, and Compliance professional with hands-on portfolio experience in risk assessments, control mapping, compliance gap analysis, audit evidence review, policy exceptions, business continuity, and remediation tracking.
 
-- Assessed assets, threats, vulnerabilities, and business impacts for a simulated AWS migration.
-- Calculated inherent risk and documented control design and treatment decisions.
-- Mapped safeguards to ISO 27001 and NIST CSF 2.0.
+I create realistic GRC projects that demonstrate how analysts identify risks, evaluate controls, document findings, organize evidence, develop treatment plans, and communicate compliance results.
 
-### [Internal Audit and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-Internal-Audit-Control-Testing)
+---
 
-- Defined audit scope and prepared evidence requests and walkthrough documentation.
-- Designed test procedures and documented exceptions, management responses, and remediation.
-- Simulated an end-to-end internal control testing engagement.
+## Core GRC Knowledge
 
-### [FedRAMP and NIST 800-53 Control Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-FedRAMP-NIST80053-Control-Assessment)
+### Frameworks and Standards
 
-- Reviewed control implementation and evaluated supporting evidence.
-- Documented gaps, risks, and remediation recommendations.
-- Practiced federal cloud compliance and assessment workflows.
+`NIST CSF 2.0` `NIST SP 800-53` `NIST RMF` `ISO 27001` `SOC 2` `FedRAMP` `FISMA` `HIPAA` `PCI DSS` `SOX ITGC` `GDPR`
 
-### [Third-Party Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-Third-Party-Risk-Assessment)
+### Risk and Compliance
 
-- Evaluated vendor cybersecurity risk using a structured security questionnaire.
-- Scored risks, identified control gaps, and documented remediation recommendations.
-- Demonstrated third-party due diligence and risk reporting.
+`Risk Registers` `Control Mapping` `Gap Analysis` `Control Testing` `Evidence Review` `Risk Treatment` `POA&M Tracking` `Audit Readiness`
 
-### [SOC 2 Audit Evidence and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-SOC2-Audit-Evidence-Control-Testing)
+### Governance and Resilience
 
-- Simulated SOC 2 evidence collection and control testing.
-- Documented test results, exceptions, and remediation recommendations.
-- Organized audit-ready workpapers and evidence records.
+`Policy Development` `Policy Exceptions` `Risk Acceptance` `Business Impact Analysis` `Disaster Recovery` `RTO/RPO` `Tabletop Exercises`
 
-### [Business Impact Analysis and Disaster Recovery](https://github.com/browndarwin231-Tech/Darwin-GRC-Business-Impact-Analysis-Disaster-Recovery)
+### GRC Platforms Studied
 
-- Identified critical business processes and operational dependencies.
-- Defined recovery time and recovery point objectives.
-- Conducted a simulated ransomware tabletop exercise and tracked corrective actions.
+`Archer` `eMASS` `Xacta` `CSAM`
 
-## Portfolio by GRC Specialty
+---
 
-### Risk Management and Governance
+# Featured GRC Projects
+
+## ☁️ [ISO 27001 Cloud Migration Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-ISO27001-Cloud-Risk-Assessment)
+
+- Assessed security and business risks associated with an AWS cloud migration.
+- Calculated inherent risk and developed risk-treatment recommendations.
+- Mapped controls to ISO 27001 and NIST CSF 2.0.
+- Organized evidence and remediation activities.
+
+---
+
+## 🔍 [Internal Audit and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-Internal-Audit-Control-Testing)
+
+- Defined audit scope and prepared evidence requests.
+- Created walkthroughs and control-testing procedures.
+- Documented exceptions and management responses.
+- Tracked remediation recommendations through closure.
+
+---
+
+## 🏛️ [FedRAMP and NIST 800-53 Control Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-FedRAMP-NIST80053-Control-Assessment)
+
+- Reviewed security-control implementation.
+- Evaluated supporting compliance evidence.
+- Identified control gaps and associated risks.
+- Developed remediation and tracking recommendations.
+
+---
+
+## 🤝 [Third-Party Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-Third-Party-Risk-Assessment)
+
+- Evaluated vendor risk using a cybersecurity questionnaire.
+- Scored risks and identified control deficiencies.
+- Documented remediation requirements.
+- Produced a structured vendor-risk recommendation.
+
+---
+
+## 📋 [SOC 2 Audit Evidence and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-SOC2-Audit-Evidence-Control-Testing)
+
+- Collected and organized simulated audit evidence.
+- Tested controls against SOC 2 requirements.
+- Documented exceptions and remediation recommendations.
+- Created audit-ready workpapers.
+
+---
+
+## 🔄 [Business Impact Analysis and Disaster Recovery](https://github.com/browndarwin231-Tech/Darwin-GRC-Business-Impact-Analysis-Disaster-Recovery)
+
+- Identified critical business processes and dependencies.
+- Established recovery time and recovery point objectives.
+- Conducted a simulated ransomware tabletop exercise.
+- Documented corrective actions and recovery priorities.
+
+---
+
+# Additional GRC Projects
+
+<details>
+<summary><strong>Enterprise Risk and Governance</strong></summary>
 
 - [NIST CSF 2.0 Governance Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-NIST-CSF-2.0-Governance-Risk-Assessment)
 - [ISO 27001 Risk Assessment and Statement of Applicability](https://github.com/browndarwin231-Tech/Darwin-GRC-ISO27001-Risk-Assessment-SoA)
 - [Archer Enterprise Risk Simulation](https://github.com/browndarwin231-Tech/Darwin-GRC-Archer-Enterprise-Risk-Simulation)
 - [Security Policy Exception Management](https://github.com/browndarwin231-Tech/Darwin-GRC-Security-Policy-Exception-Management)
-- [Business Impact Analysis and Disaster Recovery](https://github.com/browndarwin231-Tech/Darwin-GRC-Business-Impact-Analysis-Disaster-Recovery)
-
-### Audit and Control Testing
-
-- [Internal Audit and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-Internal-Audit-Control-Testing)
-- [SOC 2 Audit Evidence and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-SOC2-Audit-Evidence-Control-Testing)
-- [SOX ITGC Audit and Access Review](https://github.com/browndarwin231-Tech/Darwin-GRC-SOX-ITGC-Audit-Access-Review)
-- [NIST and SOC 2 Control Mapping](https://github.com/browndarwin231-Tech/Darwin-GRC-NIST-SOC2-Control-Mapping)
 - [Multi-Framework Control Crosswalk](https://github.com/browndarwin231-Tech/Darwin-GRC-Multi-Framework-Control-Crosswalk)
 
-### Federal GRC and Authorization
+</details>
 
-- [FedRAMP and NIST 800-53 Control Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-FedRAMP-NIST80053-Control-Assessment)
+<details>
+<summary><strong>Federal GRC and Authorization</strong></summary>
+
 - [eMASS RMF Authorization Simulation](https://github.com/browndarwin231-Tech/Darwin-eMASS-RMF-Authorization-Simulation)
 - [Xacta RMF Authorization Simulation](https://github.com/browndarwin231-Tech/Darwin-GRC-Xacta-RMF-Authorization-Simulation)
 - [CSAM FISMA Compliance Simulation](https://github.com/browndarwin231-Tech/Darwin-GRC-CSAM-FISMA-Compliance-Simulation)
 
-### Privacy and Industry Compliance
+</details>
+
+<details>
+<summary><strong>Privacy and Industry Compliance</strong></summary>
 
 - [GDPR Privacy Compliance Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-GDPR-Privacy-Compliance-Assessment)
 - [HIPAA Security Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-HIPAA-Security-Risk-Assessment)
 - [PCI DSS Compliance Gap Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-PCI-DSS-Compliance-Gap-Assessment)
+- [SOX ITGC Audit and Access Review](https://github.com/browndarwin231-Tech/Darwin-GRC-SOX-ITGC-Audit-Access-Review)
+- [NIST and SOC 2 Control Mapping](https://github.com/browndarwin231-Tech/Darwin-GRC-NIST-SOC2-Control-Mapping)
 - [AI Evaluation Compliance and Data Annotation](https://github.com/browndarwin231-Tech/Darwin-GRC-AI-Evaluation-Compliance-Data-Annotation)
 
-## GRC Skills
+</details>
 
-### Frameworks and Standards
+---
 
-`NIST CSF 2.0` • `NIST SP 800-53` • `NIST RMF` • `ISO 27001` • `SOC 2` • `FISMA` • `FedRAMP` • `HIPAA` • `PCI DSS` • `SOX ITGC` • `GDPR`
+## My GRC Workflow
 
-### Risk and Compliance Activities
-
-`Risk Registers` • `Inherent and Residual Risk` • `Control Mapping` • `Gap Analysis` • `Risk Treatment` • `Control Testing` • `Evidence Review` • `Audit Workpapers` • `POA&M Tracking` • `Remediation Planning`
-
-### Governance and Resilience
-
-`Policy Development` • `Policy Exceptions` • `Risk Acceptance` • `Business Impact Analysis` • `Disaster Recovery` • `RTO and RPO` • `Tabletop Exercises` • `Corrective Action Tracking`
-
-### GRC Platforms Studied Through Simulations
-
-`Archer` • `eMASS` • `Xacta` • `CSAM`
-
-## GRC Workflow
-
-1. Define business objectives, requirements, and scope.
-2. Identify assets, risks, threats, and compliance obligations.
-3. Assess likelihood, impact, and inherent risk.
-4. Map requirements and evaluate control design and operation.
-5. Review evidence and document gaps or exceptions.
-6. Assign owners, treatment plans, and target dates.
-7. Track remediation and report residual risk.
-
-## Career Objective
-
-Seeking an entry-level GRC Analyst, IT Risk Analyst, Security Compliance Analyst, Third-Party Risk Analyst, or IT Audit Analyst opportunity where I can contribute practical experience in risk assessment, control testing, evidence review, policy documentation, audit readiness, and remediation tracking.
-
-## Contact
-
-- **LinkedIn:** [darwin-brown-jr-707a73245](https://www.linkedin.com/in/darwin-brown-jr-707a73245/)
-- **GitHub:** [browndarwin231-Tech](https://github.com/browndarwin231-Tech)
-- **Location:** Homestead, Florida
+```text
+Define Scope
+     ↓
+Identify Requirements and Risks
+     ↓
+Assess Likelihood and Impact
+     ↓
+Map and Evaluate Controls
+     ↓
+Review Evidence
+     ↓
+Document Gaps and Exceptions
+     ↓
+Develop Remediation Plans
+     ↓
+Track and Report Residual Risk
