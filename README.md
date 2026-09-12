@@ -1,245 +1,121 @@
-# 🛡️ Darwin Brown Jr. | SOC Analyst
+# Darwin Brown Jr. | GRC Analyst
 
-```text
-+======================================================================+
-|                       SOC ANALYST PROFILE                            |
-|                                                                      |
-|   DARWIN BROWN JR.                                                   |
-|                                                                      |
-|   Security Monitoring | Alert Triage | Incident Investigation        |
-|   Threat Hunting | SIEM | EDR | Incident Response                    |
-|                                                                      |
-|   STATUS: BUILDING • LEARNING • INVESTIGATING                        |
-+======================================================================+
-```
+Entry-level Governance, Risk, and Compliance professional building practical experience through hands-on risk assessments, control testing, audit evidence reviews, policy governance, and compliance simulations.
 
-`Security Monitoring` • `Alert Triage` • `Incident Investigation` • `Threat Hunting` • `SIEM` • `EDR`
+`Risk Assessment` • `Control Testing` • `Control Mapping` • `Policy Governance` • `Audit Readiness` • `Remediation Tracking`
 
-[LinkedIn](https://linkedin.com/in/darwinbrownjr) • [GitHub](https://github.com/browndarwin231-Tech)
+[LinkedIn](https://www.linkedin.com/in/darwin-brown-jr-707a73245/) • [GitHub](https://github.com/browndarwin231-Tech) • Homestead, Florida
 
----
+## About Me
 
-## `$ whoami`
+I build portfolio projects that simulate the work of a GRC analyst: defining scope, identifying risks, evaluating controls, reviewing evidence, documenting gaps, assigning remediation actions, and communicating results to stakeholders.
 
-```text
-Name: Darwin Brown Jr.
-Role: Entry-Level SOC Analyst / Cybersecurity Analyst
-Location: Homestead, Florida
-Focus: Blue Team Security Operations
-```
+My portfolio covers enterprise and federal GRC, cloud risk, internal audit, privacy, third-party risk, business continuity, and major frameworks including NIST CSF 2.0, NIST SP 800-53, NIST RMF, ISO 27001, SOC 2, FISMA, FedRAMP, HIPAA, PCI DSS, SOX ITGC, and GDPR.
 
-Entry-level SOC Analyst with hands-on experience performing **security monitoring, alert triage, incident investigation, threat detection, log analysis, threat hunting, and incident escalation** through practical cybersecurity labs.
+## Featured GRC Projects
 
-I build hands-on SOC projects using **SIEM, EDR, Windows telemetry, network analysis, KQL, SPL, PowerShell, and Python** to investigate suspicious activity, identify indicators of compromise, correlate security events, document incidents, and map attacker behavior to **MITRE ATT&CK**.
+### [ISO 27001 Cloud Migration Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-ISO27001-Cloud-Risk-Assessment)
 
----
+- Assessed assets, threats, vulnerabilities, and business impacts for a simulated AWS migration.
+- Calculated inherent risk and documented control design and treatment decisions.
+- Mapped safeguards to ISO 27001 and NIST CSF 2.0.
 
-# 🚨 `$ ls ~/featured_soc_projects`
+### [Internal Audit and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-Internal-Audit-Control-Testing)
 
-## 🔎 Elastic SIEM Alert Triage & Incident Investigation
+- Defined audit scope and prepared evidence requests and walkthrough documentation.
+- Designed test procedures and documented exceptions, management responses, and remediation.
+- Simulated an end-to-end internal control testing engagement.
 
-**Elastic Security • Kibana • Sysmon • Windows • PowerShell**
+### [FedRAMP and NIST 800-53 Control Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-FedRAMP-NIST80053-Control-Assessment)
 
-* Triaged security alerts using Elastic SIEM.
-* Investigated suspicious Windows logon and PowerShell activity.
-* Analyzed Windows and Sysmon telemetry.
-* Correlated multiple security events.
-* Identified potential indicators of compromise.
-* Documented findings and determined escalation requirements.
+- Reviewed control implementation and evaluated supporting evidence.
+- Documented gaps, risks, and remediation recommendations.
+- Practiced federal cloud compliance and assessment workflows.
 
-➡️ **[View Elastic Project](https://github.com/browndarwin231-Tech/Darwin--SOC-Elastic-Alert-Triage-Investigation-Lab)**
+### [Third-Party Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-Third-Party-Risk-Assessment)
 
----
+- Evaluated vendor cybersecurity risk using a structured security questionnaire.
+- Scored risks, identified control gaps, and documented remediation recommendations.
+- Demonstrated third-party due diligence and risk reporting.
 
-## 🛡️ LimaCharlie EDR PowerShell Detection & Investigation
+### [SOC 2 Audit Evidence and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-SOC2-Audit-Evidence-Control-Testing)
 
-**LimaCharlie • EDR • Windows • PowerShell • Detection Engineering**
+- Simulated SOC 2 evidence collection and control testing.
+- Documented test results, exceptions, and remediation recommendations.
+- Organized audit-ready workpapers and evidence records.
 
-* Deployed and monitored an endpoint sensor.
-* Analyzed endpoint and process telemetry.
-* Investigated suspicious PowerShell execution.
-* Created detection and response rules.
-* Generated and reviewed EDR alerts.
-* Practiced Tier 1 endpoint investigation workflows.
+### [Business Impact Analysis and Disaster Recovery](https://github.com/browndarwin231-Tech/Darwin-GRC-Business-Impact-Analysis-Disaster-Recovery)
 
-➡️ **[View LimaCharlie Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LimaCharlie-EDR-PowerShell-Detection-and-Investigation-Lab)**
+- Identified critical business processes and operational dependencies.
+- Defined recovery time and recovery point objectives.
+- Conducted a simulated ransomware tabletop exercise and tracked corrective actions.
 
----
+## Portfolio by GRC Specialty
 
-## 🚨 LetsDefend Monitoring & Incident Response
+### Risk Management and Governance
 
-**SOC Monitoring • Alert Triage • Incident Response • IOC Analysis**
+- [NIST CSF 2.0 Governance Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-NIST-CSF-2.0-Governance-Risk-Assessment)
+- [ISO 27001 Risk Assessment and Statement of Applicability](https://github.com/browndarwin231-Tech/Darwin-GRC-ISO27001-Risk-Assessment-SoA)
+- [Archer Enterprise Risk Simulation](https://github.com/browndarwin231-Tech/Darwin-GRC-Archer-Enterprise-Risk-Simulation)
+- [Security Policy Exception Management](https://github.com/browndarwin231-Tech/Darwin-GRC-Security-Policy-Exception-Management)
+- [Business Impact Analysis and Disaster Recovery](https://github.com/browndarwin231-Tech/Darwin-GRC-Business-Impact-Analysis-Disaster-Recovery)
 
-* Investigated security alerts in a simulated SOC environment.
-* Analyzed suspicious and malicious activity.
-* Identified indicators of compromise.
-* Documented incident findings.
-* Evaluated severity and escalation requirements.
-* Completed structured incident response workflows.
+### Audit and Control Testing
 
-➡️ **[View LetsDefend Project](https://github.com/browndarwin231-Tech/Darwin-SOC-LetsDefend-Monitoring-Incident-Response)**
+- [Internal Audit and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-Internal-Audit-Control-Testing)
+- [SOC 2 Audit Evidence and Control Testing](https://github.com/browndarwin231-Tech/Darwin-GRC-SOC2-Audit-Evidence-Control-Testing)
+- [SOX ITGC Audit and Access Review](https://github.com/browndarwin231-Tech/Darwin-GRC-SOX-ITGC-Audit-Access-Review)
+- [NIST and SOC 2 Control Mapping](https://github.com/browndarwin231-Tech/Darwin-GRC-NIST-SOC2-Control-Mapping)
+- [Multi-Framework Control Crosswalk](https://github.com/browndarwin231-Tech/Darwin-GRC-Multi-Framework-Control-Crosswalk)
 
----
+### Federal GRC and Authorization
 
-## 📊 Wazuh SIEM & Endpoint Monitoring Lab
+- [FedRAMP and NIST 800-53 Control Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-FedRAMP-NIST80053-Control-Assessment)
+- [eMASS RMF Authorization Simulation](https://github.com/browndarwin231-Tech/Darwin-eMASS-RMF-Authorization-Simulation)
+- [Xacta RMF Authorization Simulation](https://github.com/browndarwin231-Tech/Darwin-GRC-Xacta-RMF-Authorization-Simulation)
+- [CSAM FISMA Compliance Simulation](https://github.com/browndarwin231-Tech/Darwin-GRC-CSAM-FISMA-Compliance-Simulation)
 
-**Wazuh • Windows • Linux • SIEM • Endpoint Monitoring**
+### Privacy and Industry Compliance
 
-* Built a Wazuh SIEM environment.
-* Configured the Wazuh Manager, Indexer, Dashboard, and endpoint agent.
-* Monitored endpoint telemetry and security events.
-* Investigated authentication failures and suspicious activity.
-* Performed threat hunting and security configuration assessment.
-* Practiced alert validation, documentation, and escalation.
+- [GDPR Privacy Compliance Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-GDPR-Privacy-Compliance-Assessment)
+- [HIPAA Security Risk Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-HIPAA-Security-Risk-Assessment)
+- [PCI DSS Compliance Gap Assessment](https://github.com/browndarwin231-Tech/Darwin-GRC-PCI-DSS-Compliance-Gap-Assessment)
+- [AI Evaluation Compliance and Data Annotation](https://github.com/browndarwin231-Tech/Darwin-GRC-AI-Evaluation-Compliance-Data-Annotation)
 
-➡️ **[View Wazuh Project](https://github.com/browndarwin231-Tech/Darwin-Wazuh-SOC-Lab)**
+## GRC Skills
 
----
+### Frameworks and Standards
 
-## 🤖 AI Incident Timeline & SOC Shift Handoff Generator
+`NIST CSF 2.0` • `NIST SP 800-53` • `NIST RMF` • `ISO 27001` • `SOC 2` • `FISMA` • `FedRAMP` • `HIPAA` • `PCI DSS` • `SOX ITGC` • `GDPR`
 
-**Python • Streamlit • Windows Event Logs • SOC Automation**
-
-* Built a Python-based Tier 1 SOC investigation application.
-* Converted Windows event data into organized incident timelines.
-* Created a prioritized investigation queue.
-* Organized event evidence for faster triage.
-* Generated SOC analyst shift-handoff reports.
-* Demonstrated security automation for analyst workflows.
-
-➡️ **[View AI SOC Project](https://github.com/browndarwin231-Tech/Darwin-SOC-AI-Incident-Timeline-Shift-Handoff-Generator)**
-
----
-
-# 🧰 `$ cat ~/security_tools.txt`
-
-### SIEM / EDR
-
-`Microsoft Sentinel` • `Splunk` • `Elastic Security` • `Wazuh` • `Microsoft Defender XDR` • `LimaCharlie`
-
-### Querying / Scripting
-
-`KQL` • `SPL` • `Python` • `PowerShell` • `Bash` • `SQL` • `YARA`
-
-### Systems / Networking
-
-`Windows` • `Windows Server` • `Linux` • `Azure` • `Wireshark` • `TCP/IP` • `DNS` • `HTTP/HTTPS`
-
----
-
-# ⚔️ `$ cat ~/soc_skills.txt`
-
-```text
-SOC Operations
-├── Security Monitoring
-├── Alert Triage
-├── Incident Detection
-├── Incident Investigation
-├── Incident Response
-├── Incident Escalation
-└── Shift Handoff
-
-Threat Analysis
-├── IOC Analysis
-├── Log Analysis
-├── Event Correlation
-├── Threat Hunting
-├── Phishing Analysis
-├── Network Traffic Analysis
-└── MITRE ATT&CK Mapping
-
-Detection & Investigation
-├── SIEM Investigation
-├── EDR Investigation
-├── Windows Event Analysis
-├── PowerShell Analysis
-├── Authentication Analysis
-└── YARA
-```
-
----
-
-# 🔬 `$ ./soc_workflow.sh`
-
-```text
-Security Alert
-      │
-      ▼
-Alert Triage
-      │
-      ▼
-Validate Activity
-      │
-      ▼
-Analyze Logs / Telemetry
-      │
-      ▼
-Identify IOCs
-      │
-      ▼
-Correlate Events
-      │
-      ▼
-Determine Scope & Severity
-      │
-      ▼
-Document Findings
-      │
-      ▼
-Escalate or Close
-```
-
----
-
-# 🧠 `$ tail -f current_focus.log`
-
-```text
-[+] Tier 1 SOC alert triage
-[+] Incident investigation
-[+] KQL threat hunting
-[+] SPL security searches
-[+] SIEM investigations
-[+] EDR investigations
-[+] Windows event analysis
-[+] Network traffic analysis
-[+] Python security automation
-[+] PowerShell security automation
-[+] MITRE ATT&CK mapping
-```
-
----
-
-# 🎯 `$ cat career_objective.txt`
-
-```text
-TARGET_ROLE = "SOC Analyst Tier 1"
-
-MISSION:
-Detect → Investigate → Document → Escalate → Improve
-```
-
-Seeking an entry-level **SOC Analyst / Cybersecurity Analyst** opportunity where I can contribute hands-on experience with **SIEM, EDR, security monitoring, alert triage, incident investigation, threat hunting, network analysis, and incident response**.
-
----
-
-# 📡 `$ ./contact.sh`
-
-```text
-LinkedIn ........ ONLINE
-GitHub .......... ONLINE
-Location ........ Homestead, FL
-```
-
-**LinkedIn:**
-https://linkedin.com/in/darwinbrownjr
-
-**GitHub:**
-https://github.com/browndarwin231-Tech
-
----
-
-```text
-============================================================
-       BLUE TEAM • DETECT • INVESTIGATE • RESPOND
-============================================================
-```
+### Risk and Compliance Activities
+
+`Risk Registers` • `Inherent and Residual Risk` • `Control Mapping` • `Gap Analysis` • `Risk Treatment` • `Control Testing` • `Evidence Review` • `Audit Workpapers` • `POA&M Tracking` • `Remediation Planning`
+
+### Governance and Resilience
+
+`Policy Development` • `Policy Exceptions` • `Risk Acceptance` • `Business Impact Analysis` • `Disaster Recovery` • `RTO and RPO` • `Tabletop Exercises` • `Corrective Action Tracking`
+
+### GRC Platforms Studied Through Simulations
+
+`Archer` • `eMASS` • `Xacta` • `CSAM`
+
+## GRC Workflow
+
+1. Define business objectives, requirements, and scope.
+2. Identify assets, risks, threats, and compliance obligations.
+3. Assess likelihood, impact, and inherent risk.
+4. Map requirements and evaluate control design and operation.
+5. Review evidence and document gaps or exceptions.
+6. Assign owners, treatment plans, and target dates.
+7. Track remediation and report residual risk.
+
+## Career Objective
+
+Seeking an entry-level GRC Analyst, IT Risk Analyst, Security Compliance Analyst, Third-Party Risk Analyst, or IT Audit Analyst opportunity where I can contribute practical experience in risk assessment, control testing, evidence review, policy documentation, audit readiness, and remediation tracking.
+
+## Contact
+
+- **LinkedIn:** [darwin-brown-jr-707a73245](https://www.linkedin.com/in/darwin-brown-jr-707a73245/)
+- **GitHub:** [browndarwin231-Tech](https://github.com/browndarwin231-Tech)
+- **Location:** Homestead, Florida
